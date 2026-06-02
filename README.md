@@ -1,4 +1,4 @@
-# SOLG-Model-ACEINF-
+# SOLG-Model
 **The Model of SOLG (ACEINF) version ripped directly from the game included with a .blend, .fbx and .glb file formats and all textures directly from the game.**
  
 Images of the model below taken in:  
